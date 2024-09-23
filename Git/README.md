@@ -5,7 +5,8 @@
 ## Resources
 [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) __
 [Pro Git 2nd Edition (2014)](https://git-scm.com/book/en/v2) __
-[The missing semester | Git](https://missing.csail.mit.edu/2020/version-control/)
+[The missing semester | Git](https://missing.csail.mit.edu/2020/version-control/) __
+[Git and Github video](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ## To customize the prompt with Git branching information
 **Download the below shell script and place it in your home directory**  
