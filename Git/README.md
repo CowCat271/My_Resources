@@ -3,9 +3,12 @@
 [Git Official Site](https://www.git-scm.com/)
 
 ## Resources
-[A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) __
-[Pro Git 2nd Edition (2014)](https://git-scm.com/book/en/v2) __
-[The missing semester | Git](https://missing.csail.mit.edu/2020/version-control/) __
+[A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+
+[Pro Git 2nd Edition (2014)](https://git-scm.com/book/en/v2)
+
+[The missing semester | Git](https://missing.csail.mit.edu/2020/version-control/)
+
 [Git and Github video](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ## To customize the prompt with Git branching information
