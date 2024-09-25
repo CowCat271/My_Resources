@@ -9,6 +9,8 @@
 
 [The missing semester | Git](https://missing.csail.mit.edu/2020/version-control/)
 
+[Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
+
 [Git and Github video](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ## To customize the prompt with Git branching information
