@@ -11,7 +11,9 @@
 
 [Git Cheatsheet](https://cs.fyi/guide/git-cheatsheet)
 
-[Git and Github video](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+[Git Tips and Tricks By Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
+
+[Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ## To customize the prompt with Git branching information
 **Download the below shell script and place it in your home directory**  
